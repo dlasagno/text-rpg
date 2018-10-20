@@ -6,8 +6,15 @@ Le azioni sono scandite da una barra di progresso che ti permette di ricevere il
 Durante un'azione possono avvenine degli eventi che interromperanno o meno l'azione che si sta svolgendo.
 
 -CIBO-
--acqua
--pesci
+
+    -acqua
+    -pesci
+    -noci di cocco
+    -bacche
+    -banane
+    -alghe
+    -conigli
+    -cinghiali
 
 
 -ANNOTAZIONI-
