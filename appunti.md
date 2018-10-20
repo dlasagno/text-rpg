@@ -32,3 +32,8 @@ Acqua
 Salute
 Energia
 Temperatura
+
+-MECCANICHE-
+
+    -RACCOGLIMENTO LEGNA-
+
