@@ -7,10 +7,50 @@
 
   <title>Text rpg</title>
 
+  <link href="https://fonts.googleapis.com/css?family=Share+Tech+Mono" rel="stylesheet"> 
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
-  <h1>Hello rpg!</h1>
+  <header>
+    <span id="time-label">Noon</span>
+    <span id="day-label">Day 1</span>
+  </header>
+
+  <main>
+    <ul id="actions-list">
+      <li>
+        <button>Explore surroundings</button>
+      </li>
+    </ul>
+  </main>
+
+  <aside>
+    <div id="message-box">
+      <p>
+        I've found some footprints!
+        Probably a wild animal has passed here.
+        What should i do?
+      </p>
+
+      <button>Follow the footprints</button>
+      <button>Ignore</button>
+    </div>
+
+    <div id="inventory">
+      <h4>Inventory:</h4>
+      <ul id="inventory-list">
+        <li>1 - Log</li>
+        <li>3 - Twig</li>
+        <li>5 - Rocks</li>
+        <li>1 - Vine</li>
+        <li>3 - Coconut</li>
+      </ul>
+    </div>
+  </aside>
+
+  <footer>
+    
+  </footer>
 
   <script src="index.js" type="module"></script>
 </body>
